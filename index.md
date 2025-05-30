@@ -108,11 +108,11 @@ layout: home
 <hr  style="color: rgb(212, 110, 0);">
 <ul>
 
- 	<li>Paper submission: September 29, 2025 <a href="https://www.timeanddate.com/time/zones/sst">UTC/GMT-11</a></b></li>
+ 	<li>Paper submission: September 29, 2025 <a href="https://www.timeanddate.com/time/zones/sst">UTC/GMT-11</a></li>
 	<li>ARR commitment: October 27, 2025</li>
 	<li>Author notification: November 3, 2025</li>
 	<li>Camera-Ready: November 11, 2025</li>
-	<li>Workshop date: Dec. 23-24, 2025 (TBA)</li>
+	<li>Workshop date: December 23-24, 2025 (TBA)</li>
 </ul>
 <br>
 
@@ -123,12 +123,11 @@ layout: home
  <li> 4 pages (short paper);</li>
  <li> 8 pages (long paper).</li>
 </ul> 
-  They must be encoded as PDF using the ACM Article Template of the main conference ACM Multimedia 2025 <a href="https://acmmm2025.org/information-for-authors/"> (https://acmmm2025.org/information-for-authors/)</a>.
 </p>
-
+<!-- more details --
+  They must be encoded as PDF using the ACM Article Template of the main conference ACM Multimedia 2025 <a href="https://acmmm2025.org/information-for-authors/"> (https://acmmm2025.org/information-for-authors/)</a>.
 <p><b>Peer Review and publication in ACM Digital Library</b> Paper submissions must conform with the “double-blind” review policy. All papers will be peer-reviewed by experts in the field, they will receive at least two reviews. Acceptance will be based on relevance to the workshop, scientific novelty, and technical quality. Depending on the number, maturity and topics of the accepted submissions, the work will be presented via oral or poster sessions. The workshop papers will be published in the ACM Digital Library.
 </p>
-
 <p><b>Profile Registration</b> A registered profile at OpenReview (submissions' portal) is required to submit a paper.
 </p>
 IMP NOTES:
@@ -136,18 +135,16 @@ IMP NOTES:
 	<li> New profiles created without an institutional email will go through a moderation process that can take up to two weeks.</li>
 	<li> New profiles created with an institutional email will be activated automatically.</li>
 </ul>
+-->
 <p><b>Submissions' Site</b> TBA </p>
-<br>
-
-<!-- Special Highlights -->
+<!-- Special Highlights 
 <h2 class="blackpar_title" id="highlights">Special Highlights</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p> <b>Best Paper Award - </b>We will present a best paper award, accompanied with a certificate and a trophy, similar to previous editions. </p>
-
+-->
 <!-- <p> <b>Journal Special Issue - </b>Authors of the best papers from SUMAC 2023 will be invited to submit an extended and improved version for consideration for Special Issue on Cultural Heritage in the Springer journal Multimedia Tools and Applications.</p>
 -->
 <br>
-
 <!--Confirmed Speakers-->
 <h2 class="blackpar_title" id="speakers">Keynote Speakers</h2>
 <hr  style="color: rgb(212, 110, 0);">
@@ -216,7 +213,7 @@ IMP NOTES:
 
 <h2 class="blackpar_title">Sponsors</h2>
 
-Pleases reach out to us at chomps-aacl2025@gmail.com
+Please reach out to us at chomps-aacl2025@gmail.com
 
 <!--
 <hr>
