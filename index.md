@@ -213,7 +213,7 @@ IMP NOTES:
 
 <h2 class="blackpar_title">Sponsors</h2>
 
-Please reach out to us at chomps-aacl2025@gmail.com
+Please reach out to us at chomps-aacl2025@googlegroups.com
 
 <!--
 <hr>
