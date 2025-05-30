@@ -1,28 +1,34 @@
 - num_row: 0
   organizers:
-    - name: Valerie Gouet-Brunet
-      affiliation: IGN, Gustave Eiffel University, France
-      photo: valerie.jpg
+    - name: Aman Sinha
+      affiliation: University of Lorraine, France
+      photo: amasi.jpg
       url: https://www.umr-lastig.fr/vgouet/
-    - name: Edgar Roman-Rangel
-      affiliation: ITAM, Mexico
-      photo: edgar.jpg
+    - name: Timothee Mickus
+      affiliation: University of Helsinki, Finland
+      photo: timo.jpg
       url: https://facultad.itam.mx/facultad/edgar-francisco-roman-rangel/
-    - name: Li Weng
-      affiliation: Zhejiang Financial College, China
-      photo: li.png
-      url: https://lweng571.github.io/
-    # - name: Lili Mou
-    #   affiliation: University of Alberta
-    #   photo: lili_mou.jpg
-# - num_row: 1
-#   organizers:
-#     - name: Pascal Poupart
-#       affiliation: University of Waterloo
-#       photo: pascal_poupart.jpg
-#     - name: Ali Ghodsi
-#       affiliation: University of Waterloo
-#       photo: ali_ghodsi.jpg
-#     - name: Qun Liu
-#       affiliation: Huawei Noah's Ark Lab
-#       photo: qun_liu.png
+    - name: Raul Vasquez
+      affiliation: University of Helsinki, Finland
+      photo: timo.jpg
+      url: https://facultad.itam.mx/facultad/edgar-francisco-roman-rangel/
+    - name: Ioana Buhnila
+      affiliation: University of Lorraine, France
+      photo: ioan.jpg
+      url: https://facultad.itam.mx/facultad/edgar-francisco-roman-rangel/
+    - name: Rohit Agarwal
+      affiliation: UiT Tromso, Norway
+      photo: roh.jpg
+      url: https://facultad.itam.mx/facultad/edgar-francisco-roman-rangel/
+    - name: Patricia 
+      affiliation: Charles University, Prague
+      photo: pat.jpg
+      url: https://facultad.itam.mx/facultad/edgar-francisco-roman-rangel/
+    - name: Jorg Tiedmann
+      affiliation: University of Helsinki, Finland
+      photo: jorg.jpg
+      url: https://facultad.itam.mx/facultad/edgar-francisco-roman-rangel/
+    - name: Dilip K. Prasad
+      affiliation: UiT Tromso, Norway
+      photo: dili.jpg
+      url: https://facultad.itam.mx/facultad/edgar-francisco-roman-rangel/

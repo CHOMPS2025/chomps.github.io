@@ -13,7 +13,7 @@ layout: home
 		<h2 class="blackpar_title">CHOMPS 2025</h2>
 		<h3 class="blackpar_title">The 1<sup>st</sup> workshop on <a style="color: rgb(164, 0, 0)">C</a>onfabulation, <a style="color: rgb(164, 0, 0)">H</a>allucinations & <a style="color: rgb(164, 0, 0)">O</a>vergeneration in <a style="color: rgb(164, 0, 0)">M</a>ultilingual and <a style="color: rgb(164, 0, 0)">P</a>ractical <a style="color: rgb(164, 0, 0)">S</a>ettings</h3>
 	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in hallucination mitigation in practical situations: <br>multilingual and precision-critical domains</h4>
-		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://acmmm2025.org/"> AACL-IJCNLP 2025 </a><br> 23-24 December, 2025, Mumbai, India (On-Site)</b></h5>
+		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://www.afnlp.org/conferences/ijcnlp2025/"> AACL-IJCNLP 2025 </a><br> 23-24 December, 2025, Mumbai, India (On-Site)</b></h5>
 		<br><br>	
 	</center>
 </div>
