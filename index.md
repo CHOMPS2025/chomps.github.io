@@ -164,9 +164,10 @@ IMP NOTES:
 	<li><b>Scene Classification on Fine-arts with Style Transfer</b> - <em>Haiting Huang, Mathias Zinnen, Shumei Liu, Andreas Maier, Vincent Christlein</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689468"> [ACM DL Link]</a></li>
 	<li><b>4D Geo Modelling from Different Sources at Large Scale</b> - <em>Sander Muenster, Jonas Bruschke, Daniel Dworak, Dávid Komorowicz, Vaibhav Rajan, Dominik Ukolov</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689466"> [ACM DL Link]</a></li>
 	<li><b>Understanding User Engagement in Museum TikTok Videos by Exploring Multimodal Cues</b> - <em>Chek Zi Yan Jane, John See, Jessica Sze Yin Ho, Lau Pei Mey, Padma Pillai</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689467"> [ACM DL Link]</a></li>
-	<li><b>Hand Gesture Recognition in Buddhist Art Images: Evaluation of a Keypoint-based Approach</b> - <em>Li Weng</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689464"> [ACM DL Link]</a></li> -->
+	<li><b>Hand Gesture Recognition in Buddhist Art Images: Evaluation of a Keypoint-based Approach</b> - <em>Li Weng</em><a href="https://dl.acm.org/doi/10.1145/3689094.3689464"> [ACM DL Link]</a></li>
 </ul>
 </p>
+ -->
 <br>
 
 
