@@ -1,2 +1,2 @@
-# 2025
-Official Website of the 7th SUMAC workshop, Dublin (Ireland), 27 Oct - 31 Oct, 2025
+# CHOMPS2025
+Official Website of the 1st CHOMPS workshop, Mumbai (India), 23rd - 24th December, 2025

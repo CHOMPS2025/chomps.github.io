@@ -7,7 +7,7 @@
 # <h3 class="blackpar_title">(Models, Training and Inference)</h3>
 layout: home
 ---
-<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/ireland.jpg') no-repeat; background-size: cover; user-select: none;">
+<div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/mumbai.jpg') no-repeat; background-size: cover; user-select: none;">
 	<center>
 		<br><br>
 		<h2 class="blackpar_title">CHOMPS 2025</h2>
@@ -68,7 +68,7 @@ layout: home
 	<li> <b>[17 June, 2024]</b> <a href="index.html#imp_dates">Important Dates</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">Submissions Site Open!</a><a href="index.html#submission_guide">Submissions Guidelines.</a></li>
 -->
-	<li> <b>[9 March, 2025]</b> <a href="https://chomps2025.github.io/">Website Launched!</a></li>
+	<li> <b>[26 May, 2025]</b> <a href="https://chomps2025.github.io/">Website Launched!</a></li>
 </ul>
 </p>
 <br>
@@ -104,13 +104,15 @@ layout: home
 
 <br>
 
-<h2 class="blackpar_title" id="imp_dates">Important dates (tentative)</h2>
+<h2 class="blackpar_title" id="imp_dates">Important dates</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <ul>
- 	<li>Paper submission: <b><del>June 13</del> July 11, 2025 <a href="https://www.timeanddate.com/worldclock/timezone/utc">UTC-0</a></b></li>
-	<li>Author acceptance notification: <del>July 24</del> August 1, 2025</li>
-	<li>Camera-Ready: <del>August 3</del> August 11, 2025</li>
-	<li>Workshop date: Oct. 27, 2025</li>
+
+ 	<li>Paper submission: September 29, 2025 <a href="https://www.timeanddate.com/time/zones/sst">UTC/GMT-11</a></b></li>
+	<li>ARR commitment: October 27, 2025</li>
+	<li>Author notification: November 3, 2025</li>
+	<li>Camera-Ready: November 11, 2025</li>
+	<li>Workshop date: Dec. 23-24, 2025 (TBA)</li>
 </ul>
 <br>
 
@@ -118,8 +120,8 @@ layout: home
 <hr  style="color: rgb(212, 110, 0);">
 <p><b>Submission format</b>  All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work (full paper) as well as work in progress (short paper). Two submission formats are accepted:
 <ul>
- <li> 4 pages plus 1-page reference (short paper);</li>
- <li> 8 pages plus up to 2-page reference (full paper).</li>
+ <li> 4 pages (short paper);</li>
+ <li> 8 pages (long paper).</li>
 </ul> 
   They must be encoded as PDF using the ACM Article Template of the main conference ACM Multimedia 2025 <a href="https://acmmm2025.org/information-for-authors/"> (https://acmmm2025.org/information-for-authors/)</a>.
 </p>
@@ -134,8 +136,8 @@ IMP NOTES:
 	<li> New profiles created without an institutional email will go through a moderation process that can take up to two weeks.</li>
 	<li> New profiles created with an institutional email will be activated automatically.</li>
 </ul>
-<p><b>Submissions' Site</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2025/Workshop/SUMAC">https://openreview.net/group?id=acmmm.org/ACMMM/2025/Workshop/SUMAC</a>
-</p><br>
+<p><b>Submissions' Site</b> TBA </p>
+<br>
 
 <!-- Special Highlights -->
 <h2 class="blackpar_title" id="highlights">Special Highlights</h2>
@@ -213,6 +215,10 @@ IMP NOTES:
 </style>
 
 <h2 class="blackpar_title">Sponsors</h2>
+
+Pleases reach out to us at chomps-aacl2025@gmail.com
+
+<!--
 <hr>
 <div class="row">
 	<div class="col">
@@ -237,6 +243,7 @@ IMP NOTES:
 	</div>
 </div>
 <br>
+-->
 
 <!-- <h2 class="blackpar_title">Gold Sponsor</h2>
 <div class="row">
@@ -252,9 +259,10 @@ IMP NOTES:
 	</div>
 </div> -->
 
-<!-- Technical Committee -->
+<!-- Previous Editions 
 <h2 class="blackpar_title" id="previous_editions">Previous Editions</h2>
 <hr>
 <p>
 {% include previous_editions.html %}
 </p>
+-->
