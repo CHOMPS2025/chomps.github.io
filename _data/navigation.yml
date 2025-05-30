@@ -10,8 +10,8 @@
 #  url: index.html#highlights
 - title: Speakers
   url: index.html#speakers
-- title: Schedule
-  url: index.html#schedule 
+#- title: Schedule
+#  url: index.html#schedule 
 - title: Program committee
   url: index.html#program_committee 
 - title: Organizers

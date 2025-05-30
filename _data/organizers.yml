@@ -2,15 +2,15 @@
   organizers:
     - name: Aman Sinha
       affiliation: University of Lorraine, France
-      photo: amasi.jpg
+      photo: amasi.png
       url: https://www.umr-lastig.fr/vgouet/
     - name: Timothee Mickus
       affiliation: University of Helsinki, Finland
-      photo: timo.jpg
+      photo: timo.png
       url: https://timotheemickus.github.io/
     - name: Raul Vasquez
       affiliation: University of Helsinki, Finland
-      photo: timo.jpg
+      photo: raul.png
       url: https://jrvc.github.io/
     - name: Ioana Buhnila
       affiliation: University of Lorraine, France
@@ -22,7 +22,7 @@
       url: https://rohit102497.github.io/
     - name: Patricia Schmidtova 
       affiliation: Charles University, Prague
-      photo: pat.jpg
+      photo: pat.png
       url: https://ufal.mff.cuni.cz/patricia-schmidtova
     - name: Jörg Tiedmann
       affiliation: University of Helsinki, Finland
