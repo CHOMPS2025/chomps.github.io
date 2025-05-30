@@ -10,10 +10,10 @@ layout: home
 <div style="font-family: 'Source Sans', sans-serif; background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url('images/ireland.jpg') no-repeat; background-size: cover; user-select: none;">
 	<center>
 		<br><br>
-		<h2 class="blackpar_title">SUMAC 2025</h2>
-		<h3 class="blackpar_title">The 7<sup>th</sup> workshop on analy<a style="color: rgb(164, 0, 0)">s</a>is, <a style="color: rgb(164, 0, 0)">u</a>nderstanding <br>and pro<a style="color: rgb(164, 0, 0)">m</a>otion of herit<a style="color: rgb(164, 0, 0)">a</a>ge <a style="color: rgb(164, 0, 0)">c</a>ontents</h3>
-	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in machine learning, signal processing, <br>multimodal techniques and human-machine interaction</h4>
-		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://acmmm2025.org/"> ACM Multimedia 2025 </a><br> 27 October, 2025, Dublin, Ireland (On-Site)</b></h5>
+		<h2 class="blackpar_title">CHOMPS 2025</h2>
+		<h3 class="blackpar_title">The 1<sup>st</sup> workshop on <a style="color: rgb(164, 0, 0)">C</a>onfabulation, <a style="color: rgb(164, 0, 0)">H</a>allucinations & <a style="color: rgb(164, 0, 0)">O</a>vergeneration in <a style="color: rgb(164, 0, 0)">M</a>ultilingual and <a style="color: rgb(164, 0, 0)">P</a>ractical <a style="color: rgb(164, 0, 0)">S</a>ettings</h3>
+	    <h4 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"> Advances in hallucination mitigation in practical situations: <br>multilingual and precision-critical domains</h4>
+		<h5 class="blackpar_title" style="font-family:'Source Pro'; font-weight: 400;"><b>In conjunction with <a href="https://acmmm2025.org/"> AACL-IJCNLP 2025 </a><br> 23-24 December, 2025, Mumbai, India (On-Site)</b></h5>
 		<br><br>	
 	</center>
 </div>
@@ -68,36 +68,28 @@ layout: home
 	<li> <b>[17 June, 2024]</b> <a href="index.html#imp_dates">Important Dates</a></li>
 	<li> <b>[17 June, 2024]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2024/Workshop/SUMAC">Submissions Site Open!</a><a href="index.html#submission_guide">Submissions Guidelines.</a></li>
 -->
-	<li> <b>[9 March, 2025]</b> <a href="https://sumac-workshops.github.io/2025/">Website Launched!</a></li>
-	<li> <b>[3 April, 2025]</b> <a href="https://openreview.net/group?id=acmmm.org/ACMMM/2025/Workshop/SUMAC">Submission site is open!</a></li> 
-	<li><b>[11 April, 2025]</b> Deadlines extended.</li>
-	<li><b>[26 May, 2025]</b> Keynote info updated.</li>
+	<li> <b>[9 March, 2025]</b> <a href="https://chomps2025.github.io/">Website Launched!</a></li>
 </ul>
 </p>
 <br>
 
 <h2 class="blackpar_title" id="overview">Overview</h2>
 <hr  style="color: rgb(212, 110, 0);">
-<p> The seventh version of the SUMAC (analySis, Understanding and proMotion of heritAge Contents) workshop, like its predecessors, focuses on analyzing, processing and valorizing all types of data related to cultural heritage, including tangible and intangible heritage. As stated by UNESCO, cultural heritage provides societies with a wealth of resources inherited from the past, created in the present for the benefit of future generations. </p>
-
-<p> Digital heritage data acquired are naturally massive and address a large diversity of monomodal modalities (text, structured referentials, image, video, 3D, music, sensor data). Their processing and promotion put into light several scientific challenges as well as various new use cases that are of topical interest today for the ACM Multimedia community, both for academics and industries. Like in the previous editions, we will strive to value the sharing of knowledge, algorithms and experiments; and also open source software and open data, by encouraging the submission of articles that promote this sharing policy. </p>
-<p> Abundant heritage data is available in the most recent years. Older data, that can be called the big data of the past, are mostly locked -- they currently remain largely “hidden” from the public, in galleries, libraries, archives, museums or data producers' infrastructures. Processing heritage data to increase their visibility will act as a game changer and contribute to a large panel of communities, by enabling an outstanding pool of inter-operable data, not only as a service to citizens but also to public or private actors, by challenging the research methods at the crossing of computer science, artificial intelligence and digital humanities. </p>
+<p> The aim of the CHOMPS workshop is to find ways to mitigate one of major the hurdles that currently prevent the adoption of Large Language Models in real-world scenarios: namely, their tendency to hallucinate, i.e., produce unsupported and unverifiable text that sounds deceptively plausible.</p>
 <br>
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
 <hr  style="color: rgb(212, 110, 0);">
-<p> The ambition of SUMAC is to bring together researchers and practitioners from different disciplines to share ideas and methods on current trends in the analysis, understanding and promotion of heritage contents. These challenges are reflected in the corresponding sub-fields of machine learning, signal processing, multi-modal techniques and human-machine interaction. We welcome research contributions for the following (but not limited to) topics: </p>
-
+<p> The workshop will explore hallucination mitigation in practical situations, where this mitigation is crucial: in particular, precision-critical applications (such as those in the medical, legal and biotech domains), as well as multilingual settings (given the lack of resources available to reproduce what can be done for English in other linguistic contexts). In practice, we intend to invite works of the following (not exclusive) list of topics: </p>
 <ul>
-	<li> Monomodal analysis: image, text, video, 3D, music, sensor data and structured referentials</li>
-	<li> Information retrieval for multimedia heritage</li>
-	<li> Automated archaeology and heritage data processing</li>
-	<li> Multi-modal deep learning and time series analysis for heritage data</li>
-	<li> Heritage modeling, visualization, and virtualization</li>
-	<li> Smart digitization and reconstruction of heritage data</li>
-	<li> Open heritage data and bench-marking</li>
+	<li> Metrics, benchmarks and tools for hallucination detection</li>
+	<li> Factuality challenges in mission critical & domain-specific (e.g., medical, legal, biotech) and their consequences on societal, engineering and practical levels</li>
+	<li> Mitigation strategies during inference or model training</li>
+	<li> Studies of hallucinatory and confabulatory behaviors of LLMS in cross-lingual and multilingual scenarios</li>
+	<li> Confabulations in language & multimodal (vision, text, speech) models</li>
+	<li> Perspectives and case studies from other disciplines</li>
 </ul>
-
+<!--
 <p>The scope of targeted applications is extensive and includes:</p>
 <ul>
 	<li>Analysis, archaeometry of artifacts</li>
@@ -108,6 +100,8 @@ layout: home
 	<li> Urban planning</li>
 	<li> Digital Twins</li>
 </ul>
+-->
+
 <br>
 
 <h2 class="blackpar_title" id="imp_dates">Important dates (tentative)</h2>
