@@ -118,11 +118,14 @@ layout: home
 
 <h2 class="blackpar_title" id="submission_guide">Submission guidelines</h2>
 <hr  style="color: rgb(212, 110, 0);">
-<p><b>Submission format</b>  All submissions must be original work not under review at any other workshop, conference, or journal. The workshop will accept papers describing completed work (full paper) as well as work in progress (short paper). Two submission formats are accepted:
+<p>The workshop is designed with a widely inclusive submission policy so as to foster as vibrant a discussion as possible. In particular, we will accept:
 <ul>
- <li> 4 pages (short paper);</li>
- <li> 8 pages (long paper).</li>
+ <li> <b>Archival submissions</b>, corresponding to novel and unpublished research, to be included in the workshop proceedings, </li>
+ <li> <b>Non-archival submissions</b>, corresponding to work in progress and early results, </li>
+ <li> <b>Dissemination submissions</b>, articles presented in other venues that engage with the topics of the workshop. </li> 
 </ul> 
+Archival or non-archival submissions may consist of up to 8 pages (long) or 4 pages (short) of content. Dissemination submissions may consist of up to 1 pages of content.
+On acceptance, authors may add one additional page to accomodate changes suggested by the reviewers.
 </p>
 <!-- more details --
   They must be encoded as PDF using the ACM Article Template of the main conference ACM Multimedia 2025 <a href="https://acmmm2025.org/information-for-authors/"> (https://acmmm2025.org/information-for-authors/)</a>.
@@ -214,7 +217,7 @@ IMP NOTES:
 
 <h2 class="blackpar_title">Sponsors</h2>
 
-Please reach out to us at chomps-aacl2025@googlegroups.com
+If interested, please reach out to us at \mailto{chomps-aacl2025@googlegroups.com}
 
 <!--
 <hr>
