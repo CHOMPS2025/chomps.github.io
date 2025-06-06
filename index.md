@@ -139,7 +139,7 @@ IMP NOTES:
 	<li> New profiles created with an institutional email will be activated automatically.</li>
 </ul>
 -->
-<p><b>Submissions' Site</b> TBA </p>
+<p><b>Submissions' Site:</b> (a) via <a href="https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2025/Workshop/CHOMPS">Direct submission</a> (b) via <a href="https://openreview.net/group?id=aclweb.org/AACL-IJCNLP/2025/Workshop/CHOMPS_ARR_Commitment">ARR commitement</a></p>
 <!-- Special Highlights 
 <h2 class="blackpar_title" id="highlights">Special Highlights</h2>
 <hr  style="color: rgb(212, 110, 0);">
