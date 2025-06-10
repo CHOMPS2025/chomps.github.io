@@ -75,7 +75,7 @@ layout: home
 
 <h2 class="blackpar_title" id="overview">Overview</h2>
 <hr  style="color: rgb(212, 110, 0);">
-<p> The aim of the CHOMPS workshop is to find ways to mitigate one of major the hurdles that currently prevent the adoption of Large Language Models in real-world scenarios: namely, their tendency to hallucinate, i.e., produce unsupported and unverifiable text that sounds deceptively plausible.</p>
+<p> Despite rapid advances, LLMs continue to <i>"make things up"</i>: a phenomenon that manifests as hallucination, confabulation, and overgeneration. That is, produce unsupported and unverifiable text that sounds deceptively plausible. These outputs pose real risks in settings where accuracy and accountability are non-negotiable, including healthcare, legal systems, and education. The aim of the CHOMPS workshop is to find ways to mitigate one of major the hurdles that currently prevent the adoption of Large Language Models in real-world scenarios: namely, their tendency to hallucinate, i.e., produce unsupported and unverifiable text that sounds deceptively plausible.</p>
 <br>
 <!-- Call for Papers -->
 <h2 class="blackpar_title" id="call_for_papers">Call for Papers</h2>
@@ -106,14 +106,19 @@ layout: home
 
 <h2 class="blackpar_title" id="imp_dates">Important dates</h2>
 <hr  style="color: rgb(212, 110, 0);">
+<p>
 <ul>
-
- 	<li>Paper submission: September 29, 2025 <a href="https://www.timeanddate.com/time/zones/sst">UTC/GMT-11</a></li>
-	<li>ARR commitment: October 27, 2025</li>
-	<li>Author notification: November 3, 2025</li>
-	<li>Camera-Ready: November 11, 2025</li>
-	<li>Workshop date: December 23-24, 2025 (TBA)</li>
+ 	<li><b>First call for papers:</b> July 22, 2025 </li>
+	<li><b>Second call for papers:</b> August 22, 2025 </li>
+	<li><b>Third call for papers:</b> September 22, 2025 </li>
+	<li><b>Paper submission deadline:</b> September 29, 2025 </li>
+	<li><b>Direct ARR commitment:</b> October 27, 2025</li>
+	<li><b>Author notification:</b> November 3, 2025</li>
+	<li><b>Camera-Ready due:</b> November 11, 2025</li>
+	<li><b>Workshop date:</b> December 23-24, 2025 (TBC)</li>
 </ul>
+All deadlines are 11:59 PM Samoa Standard Time (<a href="https://www.timeanddate.com/time/zones/sst">SST</a>) (UTC/GMT-11, "Anywhere on Earth")
+</p>
 <br>
 
 <h2 class="blackpar_title" id="submission_guide">Submission guidelines</h2>
