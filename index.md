@@ -220,7 +220,7 @@ IMP NOTES:
 }
 </style>
 
-<h2 class="blackpar_title">Sponsors</h2>
+<h2 class="blackpar_title" id="sponsors">Sponsors</h2>
 
 If interested, please reach out to us at chomps-aacl2025@googlegroups.com
 
