@@ -153,11 +153,20 @@ IMP NOTES:
 <!-- <p> <b>Journal Special Issue - </b>Authors of the best papers from SUMAC 2023 will be invited to submit an extended and improved version for consideration for Special Issue on Cultural Heritage in the Springer journal Multimedia Tools and Applications.</p>
 -->
 <br>
+
 <!--Confirmed Speakers-->
 <h2 class="blackpar_title" id="speakers">Keynote Speakers</h2>
 <hr  style="color: rgb(212, 110, 0);">
 <p>
 {% include speakers.html %}
+</p>
+<br>
+
+<!-- Panelist -->
+<h2 class="blackpar_title" id="panelists">Panelists</h2>
+<hr  style="color: rgb(212, 110, 0);">
+<p>
+TBA
 </p>
 <br>
 
@@ -220,7 +229,7 @@ IMP NOTES:
 }
 </style>
 
-<h2 class="blackpar_title" id="sponsors">Sponsors</h2>
+<h2 class="blackpar_title" id="sponsors">Call For Sponsors</h2>
 
 If interested, please reach out to us at chomps-aacl2025@googlegroups.com
 
