@@ -13,4 +13,12 @@
       affiliation: IISc Bangalore, India
       photo: danish_dp.jpg
       url: https://danishpruthi.com/
-      bio: "Danish Pruthi is an Assistant Professor at the Indian Institute of Science (IISc), Bangalore. He received his Ph.D. from the School of Computer Science at Carnegie Mellon University. His research focuses on addressing issues concerning the interpretability of deep learning models, and more recently, in geo-cultural representation in AI and understanding the behavior of Large Language ModelS. "
+      bio: "Danish Pruthi is an Assistant Professor at the Indian Institute of Science (IISc), Bangalore. He received his Ph.D. from the School of Computer Science at Carnegie Mellon University. His research focuses on addressing issues concerning the interpretability of deep learning models, and more recently, in geo-cultural representation in AI and understanding the behavior of Large Language Models. "
+- num_row: 3
+  speakers:
+    - name: Abhilasha Ravichander
+      title: Dr.
+      affiliation: University of Washington, USA
+      photo: abhilasha.png
+      url: https://lasharavichander.github.io/
+      bio: "Abhilasha Ravichander is apostdoctoral scholar at the Paul G. Allen Center for Computer Science and Engineering at the University of Washington. Her work focuses on building trustworthy language models by developing rigorous diagnostic techniques for models and datasets, and by creating methods to understand large language models and the principles that govern them."
